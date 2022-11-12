@@ -16,7 +16,7 @@ export default class App extends Component {
     todoData : [
       this.createTodoItem('Drink coffee1'),
       this.createTodoItem('Make awesome app1'),
-      this.createTodoItem('Have a launch')
+      this.createTodoItem('Have a launch1')
     ],
     term : '', 
     filter : 'active'// active, all, done
